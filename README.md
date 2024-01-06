@@ -8,6 +8,12 @@
 
 Coin App is a web application designed to track real-time cryptocurrency prices. Users can view current prices for popular cryptocurrencies and manage their portfolios.
 
+## Table of Contents
+
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Usage](#usage)
+
 ## Live Demo
 
 [Coin App Live Demo](https://coin-app-pied.vercel.app/)
